@@ -1,1 +1,1 @@
-web: npmgit pu start
+web: npm start
